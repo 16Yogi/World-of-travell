@@ -1,0 +1,154 @@
+/* Payment */
+#payment-container-fluid{
+    /* background-color: rgba(58, 66, 73, 0.5);
+     */
+    /* background-image: url('https://images.pexels.com/photos/809060/pexels-photo-809060.jpeg?auto=compress&cs=tinysrgb&w=400'); */
+    /* background-image: url('https://images.pexels.com/photos/399192/pexels-photo-399192.jpeg?auto=compress&cs=tinysrgb&w=400'); */
+    background-size: 100% 100%;
+}
+#payment-container-fluid #payment-container{
+    /* background-color: gray; */
+}
+#payment-container-fluid #payment-container .mainPayment{
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    /* padding: 2px 0; */
+    /* background-color: rgba(58, 66, 73, 0.5); */
+    /* background-color: rgb(113, 194, 197); */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment{
+    height: auto;
+    width: 100%;
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment{
+    height: auto;
+    width: 80%;
+    margin: 50px auto;
+    box-shadow: 2px 2px 2px rgb(155, 155, 155);
+    border-radius: 20px;
+    /* background-color: white; */
+    background-color: rgba(244, 246, 247, 0.986);
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment h2{
+    font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+}
+/* ----container---- */
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment{
+    height: auto;
+    width: 100%;
+    display: flex;
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem{
+    height: auto;
+    /* width: 50%; */
+    
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem:nth-child(1){
+    width: 40%;
+    box-shadow: 2px 2px 2px rgb(155, 155, 155);
+    /* border-radius: 10px; */
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 5px;
+    background-color: rgba(163, 186, 236, 0.753);
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem:nth-child(2){
+    width: 60%;
+    padding: 10px 0;
+    /* background-color: cadetblue; */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem h4{
+    font-size: 18px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 700;
+    padding: 0 50px;
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .itemPy{
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .itemPy .pyA{
+    height: auto;
+    width: 50%;
+    /* background-color: black; */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .itemPy .pyA #gpay{
+   width: 40%;
+   /* height: 30px; */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .itemPy .pyA p{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 0;
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .itemPy .pyA img{
+    height: 50px;
+    width: 50px;
+    margin: 5px 0;
+    display: block;
+    /* box-shadow: 2px 2px 2px rgb(255, 252, 252); */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .itemPy .pyA .pytm{
+    height: 100px;
+    width: 100px;
+    margin-top: -10px;
+    margin-left: -25px;
+}
+
+/* Right side */
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem #pyAb{
+    height: auto;
+    width: 100%;
+    display: flex;
+    /* background-color: brown; */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem #pyAb p{ 
+    width: 50%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    /* text-indent: 10px; */
+    padding: 15px 0;
+    /* background-color: blueviolet; */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .formpyAb{ 
+    width: 70%;
+    margin: 0 auto;
+    /* background-color: red; */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .formpyAb form{ 
+
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .formpyAb form p{ 
+    font-size: 16px;
+    line-height:40px;
+
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .formpyAb form input{ 
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    padding-left: 2%;
+    border: 1px solid lightgreen;
+    outline: none;
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .formpyAb form .ce{
+    height: auto;
+    width: 100%; 
+    display: flex;
+    margin: 20px 0;
+    /* background-color: black; */
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .formpyAb form .ce #in{
+    width: 35.5%;
+}
+#payment-container-fluid #payment-container .mainPayment .childPayment .wrapPayment .Payment .PaymentItem .wrapPayItem .formpyAb form .ce p{
+    font-size: 12px;
+    /* padding-left: 2px; */
+    font-weight: 700;
+}

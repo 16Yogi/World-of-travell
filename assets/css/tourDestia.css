@@ -1,0 +1,261 @@
+#tourDesti-container-fluid{
+    height: auto;
+    width: 100%;
+    /* height: 50px; */
+    /* background-color: rgb(177, 189, 13); */
+}
+#tourDesti-container-fluid #container-tourDesti{
+    height: auto;
+    width: 100%;
+    /* background-color: aquamarine; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti{
+    height: auto;
+    width: 100%;
+    /* background-color: blue; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti{
+    height: auto;
+    width: 100%;
+    /* background-color: blueviolet; */
+    
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti{
+    height: auto;
+    width: 100%;
+    /* background-color: blueviolet; */
+
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti h3{
+    line-height: 80px;
+    font-size: 30px;
+    /* background-color: blueviolet; */
+
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti p{
+
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti .textuorDesti{
+    height: auto;
+    width: 100%;
+    /* background-color: blueviolet; */
+
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti .textuorDesti span{
+   line-height: 80px;
+   font-weight: 700;
+   /* display: block; */
+   margin: 0 5px;
+   /* text-indent: 3%; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti .textuorDesti span i{
+    color: gold;
+}
+/* img */
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg {
+    height: auto;
+    width: 100%;
+    display: flex;
+    /* background-color: black; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .a{
+    height: auto;
+    width: 60%;
+    /* background-color: aqua; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .a img{
+   height: 400px;
+   width: 99%;
+   /* display: block; */
+   margin: 0 auto;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .b{
+   height:auto;
+   width: 40%;
+   /* background-color: brown; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .b .bb{
+   height: auto;
+   width: 100%;
+   /* background-color: aqua; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .b .bb img{
+   height:190px;
+   width: 100%;
+   /* margin-bottom: 20px; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .b .bb #imga{
+    height: 200px;
+   margin-top:10px;
+   display:block;
+}
+/* section details/pay */
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails{
+   height: auto;
+   width: 100%;
+   display: flex;
+   /* background-color: blueviolet; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia{
+   height: auto;
+   width: 100%;
+   padding: 40px 0;
+   /* background-color: aquamarine; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #titlep{
+   padding: 20px 0;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia h4{
+   height: 60px;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia .iconTourDetails{
+   height: auto;
+   width: 100%;
+   /* background-color: rgb(207, 145, 10); */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia .iconTourDetails .TourDetailsicon{
+   height: auto;
+   width: 100%;
+   /* background-color: burlywood; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia .iconTourDetails .TourDetailsicon p{
+   font-size: 18px;
+   font-weight: 700;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia .iconTourDetails .TourDetailsicon p:nth-child(2){
+   font-size: 14px;
+   text-indent: 10%;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia .iconTourDetails .TourDetailsicon p i{
+    text-align: center;
+    font-size: 25px;
+    padding: 0 2%;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia .iconTourDetails .TourDetailsicon p span{
+   font-weight: 500;
+   font-size: 15px;
+}
+
+/* #tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia:nth-child(2){
+   background-color: rgb(26, 36, 36);
+   display:flex;
+   justify-content: flex-end;
+} */
+
+/* tourDestia section payment */
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor{
+    height: auto;
+    width: 80%;
+    float: right;
+    margin: 0 auto;
+    padding: 20px 10px;
+    border: 3px solid rgb(1, 190, 204);
+    /* background-color: brown; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetails-a{
+    height: 60px;
+    width: 100%;
+    text-align: right;
+    line-height: 60px;
+    padding: 0 10px;
+    background-color: rgb(255, 192, 109);
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetails-a span{
+   text-align: right;
+   font-size: 18px;
+   font-weight: 700;
+   color: rgb(216, 49, 8);
+}
+/* b */
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent{
+   height: auto;
+   width: 100%;
+   /* background-color: cadetblue; */
+   /* display: flex; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .priceTour{
+   display: flex;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .priceTour .priceToura{
+   height: auto;
+   width: 50%;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .priceTour .priceToura p{
+   font-weight: 700;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .priceTour .priceToura p:nth-child(2){
+  font-size: 25px;
+  color: rgb(236, 59, 5);
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .priceTour .priceToura button{ 
+  height: 40px;
+  width: 100%;
+  border: 2px solid rgb(25, 177, 177);
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 500;
+  display: block;
+  margin: 40px auto;
+  color: white;
+  background-color: rgb(50, 135, 231);
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .priceTour .priceToura button a{ 
+   display: block;
+   text-decoration: none;
+   margin-top: -7px;
+   color: antiquewhite;
+}
+/* last */
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .footerTour span{ 
+   font-weight:700;
+   /* display: block; */
+   padding-top: 50px;
+   /* line-height: 50px; */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .footerTour span i{ 
+   font-size:25px;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor .tourDetailscontent .footerTour span span{ 
+   color: rgb(36, 72, 233);
+}
+
+
+/* screen */
+@media (max-width:920px) and (min-width:200px){
+    
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti{
+   padding: 0 2rem;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti h3{
+   line-height: 25px;
+   font-size: 25px;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .wrapTourDesti .textuorDesti span{
+   line-height: 20px;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg {
+   display: block;
+   /* background-color: aqua */
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .a{
+   width: 100%;   
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .a img{
+    height: 200px;
+  width: 100%;
+  margin: 8px 0;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiImg .b{
+  width: 100%;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails{
+   display: block;
+}
+#tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor{
+   width: 100%;
+    /* margin: 0 auto; */
+   float: center;
+}
+/* #tourDesti-container-fluid #container-tourDesti .mainTourDesti .childTourDesti .tourDestiDetails .tourDestia #tourDetailsColor{ */
+
+}
